@@ -1,0 +1,27 @@
+{
+  "name": "observerable-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "config": "^3.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.0",
+    "mongoose": "^5.5.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ak1103dev/observerable-node.git"
+  },
+  "author": "ak1103dev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ak1103dev/observerable-node/issues"
+  },
+  "homepage": "https://github.com/ak1103dev/observerable-node#readme"
+}
